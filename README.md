@@ -6,6 +6,7 @@ Each folder is one Steam build:
 
 | Build | Folder |
 | --- | --- |
+| 26559853 (10 November 2026) | [`26559853`](26559853) |
 | 26509119 (8 November 2026) | [`26509119`](26509119) |
 
 | File | Contents |
